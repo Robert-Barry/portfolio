@@ -1,0 +1,22 @@
+{
+    "projects": [
+        {
+            "index": 1,
+            "name": "Placeholder Project 1",
+            "description": "A cross-platform fake app",
+            "tools": ["React Native", "React Native Maps", "Expo"]
+        },
+        {
+            "index": 2,
+            "name": "Placeholder Project 2",
+            "description": "A new project not yet ready to be displayed for the portfolio.",
+            "tools": ["React", "TypeScript"]
+        },
+        {
+            "index": 3,
+            "name": "Placeholder Project 3",
+            "description": "A new project not yet ready to be displayed for the portfolio.",
+            "tools": ["React", "TypeScript"]
+        }
+    ]
+}
